@@ -1,5 +1,5 @@
 #  📘 Sistema de Gestão de Alunos
-Este é um sistema simples e eficiente de Gestão de Alunos, desenvolvido para facilitar o registo e o acompanhamento do desempenho escolar dos estudantes. A plataforma permite gerir matrículas, notas, presenças e promover a comunicação entre professores, alunos e encarregados de educação.
+Este é um sistema simples e eficiente de Gestão de Alunos, desenvolvido para facilitar o registo e o acompanhamento do desempenho escolar dos estudantes. A plataforma permite vizualizar notas inserir nome, curso, e Nº de aluno.
 
 ## 🧾 Introdução
 
