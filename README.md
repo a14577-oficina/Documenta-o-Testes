@@ -4,7 +4,7 @@ Este é um sistema simples e eficiente de Gestão de Alunos, desenvolvido para f
 ## 🧾 Introdução
 
 O **Sistema de Gestão de Alunos** é uma aplicação web simples e eficiente, desenvolvida para facilitar a administração escolar e o acompanhamento do desempenho dos estudantes.  
-Com uma interface intuitiva e responsiva, o sistema permite uma gestão centralizada de informações essenciais como matrículas, notas, presenças, horários e comunicação entre os vários intervenientes da comunidade educativa.
+Com uma interface intuitiva e responsiva, o sistema permite uma gestão centralizada de informações essenciais como matrículas, notas.
 
 Este projeto foi criado com o objetivo de promover uma gestão académica mais eficaz e transparente, permitindo que professores, alunos e encarregados de educação colaborem de forma mais próxima e informada.
 
@@ -14,17 +14,7 @@ Este projeto foi criado com o objetivo de promover uma gestão académica mais e
 
 - ✔ Registo de notas e presenças
 
-- ✔ Geração de relatórios detalhados (por aluno, turma, disciplina)
-  
-- ✔ Envio de notificações automáticas aos encarregados de educação
-  
-- ✔ Gestão de horários e disciplinas
-  
-- ✔ Exportação de dados para formatos Excel e PDF
-   
-- ✔ Interface amigável e adaptada para dispositivos móveis
-   
-- ✔ Suporte a múltiplos utilizadores com níveis de acesso (admin, professor, aluno)  
+- ✔ Geração de relatórios detalhados (por aluno, curso, numero)
 
 
 #  💻 Tecnologias Utilizadas
